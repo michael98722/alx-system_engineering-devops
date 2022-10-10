@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "" | tail --linies=1 iacta >> iacta
+tail --linies=1 iacta >> iacta
