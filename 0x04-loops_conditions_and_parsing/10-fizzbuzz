@@ -5,7 +5,7 @@ do
     if ((n % 15 == 0))
     then
         echo "FizzBuzz"
-    echo "FizzBuzz"
+    elif ((n % 3 == 0))
     then
         echo "Fizz"
     elif ((n % 5 == 0))
